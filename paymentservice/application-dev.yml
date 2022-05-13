@@ -1,5 +1,5 @@
 applicationconfiguration:
                         host: http://localhost
                         port: 8081
-                        username: payment-dev
-                        password: payment-dev
+                        username: payment-dev-updated
+                        password: payment-dev-updated
